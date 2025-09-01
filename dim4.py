@@ -32,8 +32,8 @@ jumps_params = {
   }
 
 sim_params = {
-    'T_final': 10000,
-    'nsteps' : 1000
+    'T_final': 10,
+    'nsteps' : 10
   }
 
 d=4  # Dimensión del espacio de Hilbert de cada elemento (resonadores y transmones)
